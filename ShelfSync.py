@@ -1,3 +1,7 @@
+# Code crafted by Chirrenthen
+# Check out my portfolio - https://chirrenthen.netlify.app
+# For more information visit -> https://www.patreon.com/posts/shelfsync-130920442
+
 import json
 import staffs
 import users
